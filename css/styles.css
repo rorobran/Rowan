@@ -52,5 +52,6 @@ body {
 	flex-basis: 1.4em;
 }
 .titlebar {
-	border: dotted #F9C091;
+	border: dotted #FF492B;
+	background: #FFC96C
 }
